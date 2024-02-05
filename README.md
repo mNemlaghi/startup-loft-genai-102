@@ -1,4 +1,4 @@
-# AWS GenAI 102 Startup loft exampels 
+# AWS GenAI 102 Startup loft examples 
 
 This repository serves as an accompanying guide of hands-on examples to a [AWS startup loft session](https://aws-startup-lofts.com/emea/e/4d5b4/ignite-innovation-aws-generative-ai-for-startup-success---session-2-innovation-unleashed-at-scale-powered-search-summarization-and-text-to-sql-applications-with-aws-genai-services) delving into canonical generative AI use-cases.
 
