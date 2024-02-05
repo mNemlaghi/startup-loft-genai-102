@@ -1,6 +1,6 @@
-# GenAI 102:AWS hands-on examples
+# AWS GenAI 102 Startup loft exampels 
 
-This notebook serves as a set of hands-on examples to a [startup loft session](https://aws-startup-lofts.com/emea/e/4d5b4/ignite-innovation-aws-generative-ai-for-startup-success---session-2-innovation-unleashed-at-scale-powered-search-summarization-and-text-to-sql-applications-with-aws-genai-services)
+This repository serves as an accompanying guide of hands-on examples to an [AWS startup loft session](https://aws-startup-lofts.com/emea/e/4d5b4/ignite-innovation-aws-generative-ai-for-startup-success---session-2-innovation-unleashed-at-scale-powered-search-summarization-and-text-to-sql-applications-with-aws-genai-services)
 
 ## Repository Contents
 
@@ -10,8 +10,6 @@ This notebook serves as a set of hands-on examples to a [startup loft session](h
 
 * [Text to SQL](TextToSQL.ipynb): This section handles language understanding with LLM, specifically looking at text to SQL translations. This use-case explores the potential of conversational AI models, especially using ReAct framework.
 
-## Creator's Note
-My intention behind creating this repository is not only to share subject-matter knowledge but also to inspire a generation to understand and explore the immense potential of machine learning and artificial intelligence. My experience as a Senior Solutions Architect, coupled with my passion for generative AI, motivates me to spread awareness about this burgeoning field.
 
 ## Usage
 The use-cases in this repository are scripted as Jupyter notebooks. You can either clone the repo to your local machine and follow along, or run the notebooks directly on SageMaker Studio.
@@ -20,10 +18,10 @@ The use-cases in this repository are scripted as Jupyter notebooks. You can eith
 
 
 ## Contributions
-As AI is a fast-evolving field, your contributions are more than welcome - let's grow together! Feel free to clone, modify, raise issues, or suggest enhancements.
+Your contributions are more than welcome - let's grow together! Feel free to clone, modify, raise issues, or suggest enhancements.
 
 ## Acknowledgements
-I am deeply grateful to DoiT International for creating an environment conducive to learning and growth. Also, a huge shoutout to the open-source community and AWS for making exceptional knowledge resources accessible to the masses.
+I am deeply grateful to DoiT International for creating an environment conducive to learning and growth. Also, a huge shoutout to the open-source community and AWS for making exceptional knowledge resources accessible to everyone.
 
 ## Connect with me
-For collaboration, guidance, or questions, kindly refer to the 'Contact' section of my portfolio or drop a message via LinkedIn.
+For collaboration, guidance, or questions, kindly refer to the 'Contact' section of my portfolio or drop a message via [LinkedIn](https://www.linkedin.com/in/mehdi-nemlaghi-0b12491a/)
